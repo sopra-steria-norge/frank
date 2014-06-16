@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Badesteder i Oslo</name>
+		<NetworkLink>
+			<name>Badesteder i Oslo</name>
+			<Link>
+				<href>http://mapsengine.google.com/map/kml?mid=zkT0H2voItHI.kPGrpPVMgqNk&amp;lid=zkT0H2voItHI.kzlQMdwJBwfY</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>

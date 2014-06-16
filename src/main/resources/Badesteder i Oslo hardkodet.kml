@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Badesteder i Oslo</name>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Huk</name>
+			<description><![CDATA[Beskrivels av Huk kommer her etterhvert]]></description>
+			<Point>
+				<coordinates>10.676586627960205,59.895093813182285,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Ingierstrand
+</name>
+			<description><![CDATA[Beskrivelse av Ingierstrand]]></description>
+			<Point>
+				<coordinates>10.74861999999996,59.816644,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Hovedøya</name>
+			<description><![CDATA[Beskirvelse av Hovedøya]]></description>
+			<Point>
+				<coordinates>10.724329948425293,59.89511533886043,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
