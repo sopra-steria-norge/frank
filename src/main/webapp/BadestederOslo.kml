@@ -5,7 +5,9 @@
 		<Placemark>
 			<styleUrl>#icon-503-DB4436</styleUrl>
 			<name>Huk</name>
-			<description><![CDATA[Beskrivels av Huk kommer her etterhvert]]></description>
+			<description><![CDATA[Beskrivels av Huk kommer her etterhvert<br>Ny linje her?
+<p><h2>Metrogram</h2>
+</p>]]></description>
 			<Point>
 				<coordinates>10.676586627960205,59.895093813182285,0.0</coordinates>
 			</Point>
