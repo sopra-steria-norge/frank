@@ -74,5 +74,5 @@ scp $JAR anders@$HOST:$BASE/$VERSION/frank.jar
 info "Laster opp war"
 scp $WAR anders@$HOST:$BASE/$VERSION/frank.war
 ssh anders@$HOST "ln -s -f $VERSION -T $BASE/current"
-ssh javabin@$HOST "$BASE/frank.sh stop"
-ssh javabin@$HOST "$BASE/frank.sh start"
+ssh anders@$HOST "$BASE/frank.sh stop"
+ssh anders@$HOST "$BASE/frank.sh start"
